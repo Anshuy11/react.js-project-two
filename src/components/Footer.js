@@ -51,9 +51,9 @@ const Footer = () => {
 
     <Button variant={'link'} colorScheme={'purple'}> <a target={'blank'} href ='https://youtube.com'>Youtube</a></Button>
    
-    <Button variant={'link'} colorScheme={'purple'}> <a target={'blank'} href ='https://instagram.com'>Instagram</a></Button>
+    <Button variant={'link'} colorScheme={'purple'}> <a target={'blank'} href ='https://vercel.com/anshuy115-gmailcom'>Vercel</a></Button>
   
-    <Button variant={'link'} colorScheme={'purple'}> <a target={'blank'} href ='https://github.com'>GitHub</a></Button>
+    <Button variant={'link'} colorScheme={'purple'}> <a target={'blank'} href ='https://vercel.com/anshuy115-gmailcom'>GitHub</a></Button>
    </VStack>
    
    </Stack>
